@@ -75,7 +75,7 @@ with open (ouput, 'w') as file:
     file.write("\n")
     file.write(f"Greatest Increase in Profit: {greatest_increase[0]} (${greatest_increase[1]})\n")
     file.write("\n")
-    file.write(f"Greatest Increase in Profit: {greatest_decrease[0]} (${greatest_decrease[1]})\n")
+    file.write(f"Greatest Decrease in Profit: {greatest_decrease[0]} (${greatest_decrease[1]})\n")
 
 #Print output into terminal and confirm that the .txt file was created
 
