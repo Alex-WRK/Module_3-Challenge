@@ -15,4 +15,4 @@ The greatest increase in profits (date and amount) over the entire period
 The greatest decrease in profits (date and amount) over the entire period
 
 See below screenshot for results
-
+!https://github.com/Alex-WRK/Module_3-Challenge/blob/main/PyBank/Resources/pybank%20snip.png
