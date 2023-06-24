@@ -83,7 +83,7 @@ with open(ouput,'r') as file:
     ouput_content = file.read()
     print(ouput_content)
 
-print("The analysis results are also saved in the same directory under the name analysis_file.txt")
+print("The analysis results are also saved in the same directory under the name analysis_file.txt\n")
 
 
 

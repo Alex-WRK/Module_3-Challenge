@@ -78,6 +78,7 @@ with open(output,'r') as file:
     ouput_content = file.read()
     print(ouput_content)
 
+print("The elections results are also saved in the same directory under election_results.txt\n")
 
 
 
