@@ -10,6 +10,9 @@
 
 ## The winner of the election based on popular vote
 
+# Dataset is a csv file with 3 columns
+# Coloumn 1 is the ballot id, Column 2 is the county and coloumn 3 is the candidate
+
 #Import the functions needed
 import os
 import csv
