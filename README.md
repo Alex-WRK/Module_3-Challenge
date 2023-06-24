@@ -1,4 +1,4 @@
-## Module 3 Chanllenge
+## Module 3 Challenge
 
 This repo contains the files for the module 3 challenge (Pybank and PyPoll)
 
