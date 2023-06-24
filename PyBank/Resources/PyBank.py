@@ -65,7 +65,7 @@ average_change = sum(changes) / (total_months - 1)
 
 #print results to text file in the same folder as the code
 with open (ouput, 'w') as file:
-    file.write(" Finanancial Analysis\n")
+    file.write("Finanancial Analysis\n")
     file.write("-----------------------\n")
     file.write(f"Total months: {total_months}\n")
     file.write("\n")
